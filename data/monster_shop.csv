@@ -1,0 +1,4 @@
+id,type,atk_power,def_power,hp,stok,harga
+1,venusaur,500,35,2000,10,100
+2,charmeleon,550,30,2250,3,1000
+3,wartortle,400,40,2000,5,110
